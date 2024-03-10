@@ -1,2 +1,2 @@
 # local-repo
-red colour
+blue colour
